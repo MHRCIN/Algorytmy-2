@@ -1,4 +1,4 @@
-# Algorytmy2 - ZUT laboratioria
+# Algorytmy 2 - ZUT laboratioria
 Przedmiot: Algorytmy 2
 Lab01 - Lista
 Lab02 - Tablica dynamiczna
